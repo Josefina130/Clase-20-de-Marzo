@@ -26,6 +26,19 @@ Cinta dividida en casillas como "memoria".
 ### Despertar visual  
 **Artistas y algoritmos**: En 1960 hubieron artistas qe hacian arte ocupando computadoras, ellos fueron cuestionados porque los computadores fueron creados para la guerra.  
 
-### Jhon y James Whitney  
+### John y James Whitney  
 Recuperaron un computador de la Segunda Guerra Mundial y lo modificaron para hacer animacion (movimientos de camara para pintar).  
 
+## Democratizacion del Creative Coding 
+### Software Libre (1983) 
+Richard Stallman anuncio el inicio del proyecto GNU.  
+La idea era crear un sistema operativo libre, etico y social.  
+Libertad del usuario (tener control de su informatica)
+*Free Software Foundation* (FSF)  
+### Open Sourse (Codigo Abierto)  
+Practico y tecnico.  
+Calidad y colaboracion.  
+
+### Design by Numbers (John Maeda)  
+Lenguaje de programacion y entorno para ense;ar  dise;adores visuales a programar.  
+Cuadricula fija de 100x100 pixeles.
