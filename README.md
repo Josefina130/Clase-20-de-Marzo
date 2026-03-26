@@ -19,3 +19,13 @@ Fue un hito por la separacion entre Hrdware y Software.
 ***"La primera programadora"***  
 Fue una matematica y escritora britanica.  
 Trabajo con Babbage.
+
+### Maquina de Turing (Alan Turing)  
+Cinta dividida en casillas como "memoria".  
+
+### Despertar visual  
+**Artistas y algoritmos**: En 1960 hubieron artistas qe hacian arte ocupando computadoras, ellos fueron cuestionados porque los computadores fueron creados para la guerra.  
+
+### Jhon y James Whitney  
+Recuperaron un computador de la Segunda Guerra Mundial y lo modificaron para hacer animacion (movimientos de camara para pintar).  
+
