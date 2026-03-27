@@ -41,4 +41,8 @@ Calidad y colaboracion.
 
 ### Design by Numbers (John Maeda)  
 Lenguaje de programacion y entorno para ense;ar  dise;adores visuales a programar.  
-Cuadricula fija de 100x100 pixeles.
+Cuadricula fija de 100x100 pixeles.  
+
+## Encargo 2 
+ <img width="1479" height="1482" alt="image" src="https://github.com/user-attachments/assets/9c810fd9-ebc9-45c2-b6f2-a9b01c6c889c" />
+
